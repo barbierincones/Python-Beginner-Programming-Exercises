@@ -2,7 +2,7 @@
 
 Otra cosa genial de las variables es que no necesitas saber su valor para poder trabajar con ellas.
 
-Por ejemplo, justo ahora la aplicación está preguntando la edad del usuario, y luego la imprime en la cónsola.
+Por ejemplo, justo ahora la aplicación está preguntando la edad del usuario, y luego la imprime en la consola.
 
 ## 📝 Instrucciones:
 
@@ -12,4 +12,4 @@ Por ejemplo, justo ahora la aplicación está preguntando la edad del usuario, y
 
 # 💡 Sugerencia
 
-Puedes buscar "how to add number to a python variable"
+Puedes buscar "how to add number to a python variable".

@@ -12,4 +12,4 @@ print("Un texto en la consola")
 
 ## 📝 Instrucciones:
 
-1. usa **print** para escribir "Hello World!" en la consola. Siéntete libre de intentar otras cosas también.
+1. Usa **print** para escribir "Hello World!" en la consola. Siéntete libre de intentar otras cosas también.

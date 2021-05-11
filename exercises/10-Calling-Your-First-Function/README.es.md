@@ -1,7 +1,7 @@
 # `10` Llamando a tu primera función
 
 Las funciones son increíbles por muchas cosas, pero principalmente porque puedes encapsular tu código
-en piezas y reusar esas piexas muchas veces sin tener que escribir todo el código cada vez.
+en piezas y reusar esas piezas muchas veces sin tener que escribir todo el código cada vez.
 
 IMPORTANTE: aquí hay una serie de ejercicios dedicados a las funciones, te invitamos a finalizarlos
 después de hacer la primera función en este ejercicio. (Y luego, vuelve).

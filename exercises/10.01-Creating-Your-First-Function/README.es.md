@@ -6,7 +6,7 @@
 1. La función **add_numbers** debería devolver la suma de 2 números dados. Por favor,
 completa el código necesario dentro de la función para hacer que se comporte como se espera.
 
-El ejercicio debería escribir el número 7 en la cónsola.
+El ejercicio debería escribir el número 7 en la consola.
 
 ## 💡 Sugerencia:
 

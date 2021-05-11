@@ -22,7 +22,7 @@ print("Random number between 0 and 10 is % s" % (r1))
 Puedes usar la función randint para obtener un número decimal aleatorio.
 **randint()** es una función incorporada del módulo `random` en Python3.
 El módulo random da acceso a varias funciones útiles y una de ellas
- es capaz de generar números aleatorios, que es **randint()**.
+es capaz de generar números aleatorios, que es **randint()**.
 
 ## 📝 Instrucciones:
 
